@@ -1,0 +1,24 @@
+
+.navbar{
+    height: 5rem;
+    background-color: #ffffff;
+}
+.fa-compass{
+    font-size: 2rem;
+    color: #fe424d;
+}
+
+.nav-link{
+    color: #222222  !important;
+    font-weight: 500;
+    font-size: 16px;
+}
+.card{
+    border-radius: 1rem  !important;
+    margin-bottom: 2rem;
+}
+.card-img-top{
+    border-radius: 1rem  !important;
+    width: 100%;
+    object-fit: cover  !important;
+}
